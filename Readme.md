@@ -1,5 +1,4 @@
 # Lip Reading
-It takes courage to study machine learning from scratch and aim for building a lip reading model in less than two months time.
 
 This is a specifically developed lip reading model which recognizes spoken words and sentences only from visual lip movements captured in video sequences.
 
