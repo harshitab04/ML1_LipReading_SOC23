@@ -2,7 +2,7 @@
 
 This is a specifically developed lip reading model which recognizes spoken words and sentences only from visual lip movements captured in video sequences.
 
-This model is made in google colaboratory and it leverages the power of convolutional neural networks (CNNs) and recurrent neural networks (RNNs) to extract temporal and spatial features from lip regions, enabling it to decode speech information solely from lip movements.
+This model is made in google colaboratory and it leveragess the power of convolutional neural networks (CNNs) and recurrent neural networks (RNNs) to extract temporal and spatial features from lip regions, enabling it to decode speech information solely from lip movements.
 
 # Dataset:
 GRID Corpus(2006)
